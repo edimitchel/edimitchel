@@ -1,7 +1,7 @@
 # Welcome on my Github profile
 
 > I'm a Vue enthusiast developer who uses React at work. Hope that Vue 3 will gain the upper hand over React technical strength.  
-> I'm married to my wonderful wife, father of one daughter, we are christians and are believing in **God's grace throught Jesus, his Son**.
+> I'm married to my wonderful wife, father of one daughter and one son, we are christians and are believing in **God's grace throught Jesus, his Son**.
 
 ## Contributions
 
