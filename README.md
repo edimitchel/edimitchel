@@ -7,4 +7,7 @@
 
 I'm not very active on FOSS world but take part of discussion espacially on Vue 3 incoming features.
 
-## Take a look to [my website](https://book.micheledighoffer.fr)
+## Take a look to [my website](https://micheledighoffer.fr)
+
+
+[![AI Manifesto Signee](https://ai-manifesto.dev/badge.svg)](https://ai-manifesto.dev)
