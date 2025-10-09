@@ -10,7 +10,7 @@ I'm not very active on FOSS world but want to take part of nuxt upcoming feature
 ![edimitchel's GitHub stats](https://github-readme-stats.vercel.app/api/?username=edimitchel\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515\&hide_title=true)
 
 
-## Take a look to [my website](https://micheledighoffer.fr)
+## Take a look to [my website](https://michel.edigho.fr)
 
 
 [![AI Manifesto Signee](https://ai-manifesto.dev/badge.svg)](https://ai-manifesto.dev)
