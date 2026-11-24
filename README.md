@@ -24,6 +24,3 @@ I'm not very active on FOSS world but want to take part of nuxt upcoming feature
 
 > [!NOTE]
 > Take a look to [my website michel.edigho.fr](https://michel.edigho.fr)
-
-
-[![AI Manifesto Signee](https://ai-manifesto.dev/badge.svg)](https://ai-manifesto.dev)
